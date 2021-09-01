@@ -210,7 +210,7 @@ nav {
 
 
 
- @media screen and (max-width: 1600px) {
+ @media screen and (max-width: 1400px) {
     #main-container {
       flex-direction: column;
       align-items: center;
